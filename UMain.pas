@@ -32,7 +32,7 @@ var
 
 implementation
  uses
-   System.Win.Registry, UFunctions;
+   System.Win.Registry;
 {$R *.dfm}
 
 procedure TFrmMain.CreateParams(var Params: TCreateParams);
